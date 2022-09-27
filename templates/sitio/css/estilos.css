@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor{
+    width: 1024px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
